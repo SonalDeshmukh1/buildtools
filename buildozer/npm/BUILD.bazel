@@ -25,6 +25,7 @@ _PARENT_PACKAGE_FILES = [
     "buildozer-darwin_arm64",
     "buildozer-linux_amd64",
     "buildozer-linux_arm64",
+    "buildozer-linux_s390x",
     "buildozer-windows_amd64.exe",
 ]
 
