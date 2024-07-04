@@ -1,4 +1,4 @@
-module github.com/bazelbuild/buildtools
+module github.com/SonalDeshmukh1/buildtools
 
 go 1.15
 
